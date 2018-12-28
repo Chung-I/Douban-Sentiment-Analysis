@@ -8,7 +8,7 @@ Sentiment Analysis on Douban Movie Short Comments Dataset using BERT.
 
 ## Details
 - https://drive.google.com/open?id=13wXt58rK7MKdWR-bCEP-nUUjhQPcJoFjXsU7qyS9sZ0
-- https://drive.google.com/open?id=1jmRB0pSGs1CofiG5WQDnXr2-RgJubxYWRJsjQxbxYQM
+- https://hackmd.io/s/rylR1dmbV
 
 ## Implementation
 
